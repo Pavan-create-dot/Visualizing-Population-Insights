@@ -41,9 +41,15 @@ Highlighted long-term population trends and patterns across decades.
 The population dataset used in this project is sourced from the World Bank:
 
 World Bank Population Dataset
+[population_data.xlsx](https://github.com/user-attachments/files/18307633/population_data.xlsx)
+
 
 🎥 Visualization Highlights
 
 Dive into the interactive charts to explore population trends. Key output includes:
 
 Top 30 Population Chart: A bar graph created using Plotly to visualize average population rankings.
+
+
+https://github.com/user-attachments/assets/d4964752-7e49-4694-87ff-fdfe978ddfd3
+
