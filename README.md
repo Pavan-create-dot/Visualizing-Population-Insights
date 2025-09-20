@@ -1,6 +1,6 @@
 Prodigy_DS_01
 
-🌟 Task-01: Analyzing Population Data Trends 📊🌍
+🌟: Analyzing Population Data Trends 📊🌍
 
 🚀 Overview
 
